@@ -132,8 +132,7 @@ docs/project-documentation.md
 
 ### Blocked Connections
 
-* Web VM → DB VM on TCP 22
-* Web VM → DB VM on TCP 3306
+* Web VM → DB VM on Any * port
 
 Connectivity tests were performed using:
 
