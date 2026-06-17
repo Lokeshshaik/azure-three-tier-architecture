@@ -154,9 +154,6 @@ nc -zv <private-ip> <port>
 
 ![SSH](screenshots/10-ssh-web-to-app.png)
 
-### Web-to-Database Traffic Blocked
-
-![Blocked](screenshots/14-web-to-db-blocked.png)
 
 ## Repository Structure
 
@@ -190,7 +187,6 @@ azure-three-tier-architecture/
 
 ## Author
 
-Your Name
+Your Name : Lokesh Manikanta 
 
-* LinkedIn: <your-linkedin-url>
-* GitHub: <your-github-profile>
+* LinkedIn: https://www.linkedin.com/in/lokesh-mani/
