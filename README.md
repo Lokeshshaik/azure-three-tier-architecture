@@ -185,8 +185,5 @@ azure-three-tier-architecture/
 * Add Azure Monitor and Log Analytics
 * Store secrets in Azure Key Vault
 
-## Author
-
-Your Name : Lokesh Manikanta 
 
 * LinkedIn: https://www.linkedin.com/in/lokesh-mani/
